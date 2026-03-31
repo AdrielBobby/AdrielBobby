@@ -8,7 +8,7 @@ p align="center">
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science student with a minor in Cybersecurity
+- 🎓 Computer Science student interested in Cybersecurity
 - 🌱 Currently exploring **local LLMs**, **cybersecurity**, and **React**
 - 🔭 Building: **AI Swimming Pool Detector** & **Calm Cockpit**
 - 🌐 Portfolio: [adrielbobby.github.io](https://adrielbobby.github.io)

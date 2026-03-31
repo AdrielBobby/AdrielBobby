@@ -38,7 +38,7 @@
 |--------|-------------|-------|
 | [🏊 AI Pool Detector](https://github.com/AdrielBobby/ai-swimming-pool-detection) | Satellite image AI pipeline to detect pools with YOLOv8 + Streamlit dashboard | Python, OpenCV, YOLOv8 |
 | [🌐 Portfolio Site](https://github.com/AdrielBobby/adrielbobby.github.io) | Personal resume & portfolio website | React, JavaScript, Vite |
-| [🔍 Digital Forensics Toolkit](https://github.com/AdrielBobby) | CLI wrapper for forensic analysis tools *(in development)* | Python |
+| [🎛️ Calm Cockpit Dashboard]([https://github.com/AdrielBobby](https://github.com/AdrielBobby/calm-cockpit-multipage-version)) |Student Mission Control dashboard — timetable, grades, finance & calendar in one glanceable view | Python, Flask, JS, SQLite|
 
 ---
 

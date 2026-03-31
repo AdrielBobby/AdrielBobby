@@ -1,8 +1,6 @@
-<h1 align="center">Hey there, I'm Adriel Bobby 👋</h1>
-
-<p align="center">
+p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+Student+%F0%9F%8E%93;Full-Stack+Web+Developer;AI+%26+Computer+Vision+Enthusiast;Cybersecurity+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Breaking+into+Cybersecurity+%F0%9F%94%90;Builder+of+AI+%26+Web+Projects;IEEE+Technical+Coordinator;B.Tech+%40+RSET%2C+Kochi" alt="Typing SVG" />
   </a>
 </p>
 

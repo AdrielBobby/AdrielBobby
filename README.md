@@ -11,8 +11,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Computer Science student with a minor in Cybersecurity
-- 🌱 Currently exploring **local LLMs**, **digital forensics**, and **advanced React**
-- 🔭 Building: **AI Swimming Pool Detector** (YOLOv8 + Streamlit) & **Digital Forensics Toolkit**
+- 🌱 Currently exploring **local LLMs**, **cybersecurity**, and **React**
+- 🔭 Building: **AI Swimming Pool Detector** & **Calm Cockpit**
 - 🌐 Portfolio: [adrielbobby.github.io](https://adrielbobby.github.io)
 - 📍 Kozhikode, Kerala, India
 

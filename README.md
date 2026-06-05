@@ -12,7 +12,7 @@
 - 🌱 Currently exploring **local LLMs**, **cybersecurity**, and **React**
 - 🔭 Building: **AI Swimming Pool Detector** & **Calm Cockpit**
 - 🌐 Portfolio: [adrielbobby.github.io](https://adrielbobby.github.io)
-- 📍 Kozhikode, Kerala, India
+- 📍 Kalamassery, Kerala, India
 
 ---
 

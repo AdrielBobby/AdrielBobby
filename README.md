@@ -98,7 +98,7 @@ SKILL TREE
 |-------|-----------|--------------|:------:|
 | [**adrielbobby.github.io**](https://github.com/AdrielBobby/adrielbobby.github.io) | Terminal-themed portfolio with WebGL effects | React · Vite · Three.js | Ongoing |
 | [**thaalam**](https://github.com/AdrielBobby/thaalam) | Wearable chenda coach with real-time timing feedback and Malayalam AI instruction. Team project, I built the backend & UI (Best Use of Gemma, Physical AI Hackathon) | Python · FastAPI · Gemma · Raspberry Pi 5 | Complete |
-| [**calm-cockpit**](https://github.com/AdrielBobby/calm-cockpit-multipage-version) | Student mission control: timetable, grades, finance, calendar | JavaScript | In progress |
+| [**calm-cockpit-multipage-version**](https://github.com/AdrielBobby/calm-cockpit-multipage-version) | Student mission control: timetable, grades, finance, calendar | JavaScript | In progress |
 | [**ai-swimming-pool-detection**](https://github.com/AdrielBobby/ai-swimming-pool-detection) | Detect swimming pools in satellite imagery with an interactive dashboard | YOLOv8 · Streamlit | Complete |
 | [**pharma-batch-tracker**](https://github.com/AdrielBobby/pharma-batch-tracker) | MedLedger: pharmacy batch & expiry manager with FEFO sales allocation, near-expiry alerts and trigger-enforced stock integrity | Oracle 23ai · Node.js · React · TypeScript · Docker | Complete |
 | [**Mend-your-heart-game**](https://github.com/AdrielBobby/Mend-your-heart-game) | A small Valentine's Day game about finding yourself | Lua | Complete |
@@ -146,9 +146,9 @@ $ git log --contributions --graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="contributions-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="contributions-light.svg">
-    <img src="contributions-dark.svg" alt="AdrielBobby's GitHub contribution graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="contributions-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="contributions-light.svg?v=2">
+    <img src="contributions-dark.svg?v=2" alt="AdrielBobby's GitHub contribution graph" width="100%" />
   </picture>
 </p>
 

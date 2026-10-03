@@ -1,58 +1,166 @@
+<div align="center">
+
+```text
+╔════════════════════════════════════════════════════════╗
+║   A D R I E L   B O B B Y   //   CHARACTER SHEET       ║
+╚════════════════════════════════════════════════════════╝
+```
+
+**Class:** CS Undergrad · Aspiring Security Engineer  
+**Guild:** IEEE Technical Coordinator, RSET Kochi  
+**Region:** Kalamassery, Kerala, IN
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-adrielbobby.github.io-00e676?style=for-the-badge&labelColor=0d1117)](https://adrielbobby.github.io)
+
+</div>
+
+---
+
+## `> stats --all`
+
+```text
+LVL 05  B.Tech CSE · RSET Kochi
+────────────────────────────────────────────
+PYTHON         ███████░░░  Lv.7
+JAVASCRIPT     ███████░░░  Lv.7
+REACT          ███████░░░  Lv.7
+C              ███████░░░  Lv.7
+CYBERSECURITY  █████░░░░░  Lv.5  (Practitioner)
+OPENCV / CV    █████░░░░░  Lv.5
+LOCAL LLMs     ████░░░░░░  Lv.4  (Training)
+────────────────────────────────────────────
+```
+
+| Attribute | Domain | Score |
+|-----------|--------|:-----:|
+| **INT** | AI / Computer Vision | 12 |
+| **DEX** | Web / React | 15 |
+| **WIS** | Security | 14 |
+| **CHA** | Leadership & Coordination | 12 |
+| **STR** | Systems / C | 14 |
+
+---
+
+## `> skill-tree --expand`
+
+```text
+SKILL TREE
+│
+├─ LANGUAGES
+│  ├─ Python ........... Lv.7  ███████░░░
+│  ├─ JavaScript ....... Lv.7  ███████░░░
+│  ├─ C ................ Lv.7  ███████░░░
+│  ├─ MySQL ............ Lv.7  ███████░░░
+│  ├─ TypeScript ....... Lv.3  ███░░░░░░░
+│  └─ Lua .............. Lv.2  ██░░░░░░░░
+│
+├─ WEB
+│  ├─ React ............ Lv.7  ███████░░░
+│  ├─ HTML5 / CSS3 ..... Lv.7  ███████░░░
+│  └─ Vite ............. Lv.6  ██████░░░░
+│
+├─ SECURITY
+│  ├─ Web Security ..... Lv.6  ██████░░░░
+│  ├─ Network Security . Lv.6  ██████░░░░
+│  ├─ PrivEsc .......... Lv.5  █████░░░░░
+│  ├─ Forensics ........ Lv.4  ████░░░░░░
+│  ├─ Malware Analysis . Lv.4  ████░░░░░░
+│  ├─ Mobile Security .. Lv.4  ████░░░░░░
+│  ├─ OSINT ............ Lv.4  ████░░░░░░
+│  ├─ Cryptography ..... Lv.3  ███░░░░░░░
+│  ├─ Binary Exploits .. Lv.2  ██░░░░░░░░
+│  ├─ Blue Team ........ Lv.2  ██░░░░░░░░
+│  ├─ Reverse Eng. ..... Lv.0  ░░░░░░░░░░
+│  ├─ Secure Coding .... Lv.0  ░░░░░░░░░░
+│  └─ Sec. Scripting ... Lv.0  ░░░░░░░░░░
+│
+├─ AI & VISION
+│  ├─ OpenCV ........... Lv.5  █████░░░░░
+│  ├─ YOLOv8 ........... Lv.5  █████░░░░░
+│  ├─ Streamlit ........ Lv.4  ████░░░░░░
+│  └─ Local LLMs ....... Lv.4  ████░░░░░░
+│
+└─ TOOLS
+   ├─ Git / GitHub ..... Lv.6  ██████░░░░
+   ├─ Linux CLI ........ Lv.6  ██████░░░░
+   └─ Raspberry Pi ..... Lv.2  ██░░░░░░░░
+```
+
+---
+
+## `> quest-log`
+
+| Quest | Objective | Loot (Stack) | Status |
+|-------|-----------|--------------|:------:|
+| [**ai-swimming-pool-detection**](https://github.com/AdrielBobby/ai-swimming-pool-detection) | Detect swimming pools in satellite imagery with an interactive dashboard | YOLOv8 · Streamlit | ⚔️ Active |
+| [**calm-cockpit**](https://github.com/AdrielBobby/calm-cockpit-multipage-version) | Student mission control: timetable, grades, finance, calendar | JavaScript | ⚔️ Active |
+| [**vaccine-dispatch-project**](https://github.com/AdrielBobby/vaccine-dispatch-project) | CLI for vaccine inventory, hospital orders, dispatch and sales reports | Python · MySQL | ✅ Cleared |
+| [**pharma-batch-tracker**](https://github.com/AdrielBobby/pharma-batch-tracker) | Track medicine batches, expiry, suppliers and sales | Relational schema | ✅ Cleared |
+| [**student-marks-tracker**](https://github.com/AdrielBobby/student-marks-tracker) | Marks tracker built for an internship | TypeScript | ✅ Cleared |
+| [**gemini_context_monitor**](https://github.com/AdrielBobby/gemini_context_monitor) | Terminal tool to monitor Gemini CLI context-window usage | Python | ✅ Cleared |
+| [**Mend-your-heart-game**](https://github.com/AdrielBobby/Mend-your-heart-game) | A small Valentine's Day game about finding yourself | Lua | ✅ Cleared |
+| [**adrielbobby.github.io**](https://github.com/AdrielBobby/adrielbobby.github.io) | Terminal-themed portfolio with WebGL effects | React · Vite · Three.js | 🔄 Always evolving |
+
+---
+
+## `> active-quests`
+
+- 🧠 Running **local LLMs** (and putting them on small hardware)
+- 🛡️ Building a **cybersecurity** foundation
+- ⚛️ Levelling up **React**
+
+**Next unlock:** CTF competitions · network security · pentesting basics
+
+---
+
+## `> achievements --list`
+
+```text
+ACHIEVEMENTS
+────────────────────────────────────────────
+[x] 🦈 Pull Shark           merged pull requests
+[x] 👥 Pair Extraordinaire  co-authored commits
+[x] ⚡ Quickdraw            closed an issue/PR fast
+[x] 🎖️ IEEE Technical Coordinator
+[x] 🚩 First CTF            flag captured
+[x] 🔐 Security cert        certified
+────────────────────────────────────────────
+```
+
+```text
+$ git log --contributions --graph
+```
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Breaking+into+Cybersecurity+%F0%9F%94%90;Builder+of+AI+%26+Web+Projects;IEEE+Technical+Coordinator;B.Tech+%40+RSET%2C+Kochi" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="contributions-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="contributions-light.svg">
+    <img src="contributions-dark.svg" alt="AdrielBobby's GitHub contribution graph" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AdrielBobby&show_icons=true&bg_color=161b22&border_color=30363d&title_color=00e676&icon_color=00e676&text_color=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AdrielBobby&show_icons=true&bg_color=f6f8fa&border_color=d0d7de&title_color=00a152&icon_color=00a152&text_color=24292f">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=AdrielBobby&show_icons=true&bg_color=161b22&border_color=30363d&title_color=00e676&icon_color=00e676&text_color=c9d1d9" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AdrielBobby&background=161b22&border=30363d&ring=00e676&fire=00e676&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00e676&sideLabels=8b949e&dates=8b949e&stroke=30363d">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AdrielBobby&background=f6f8fa&border=d0d7de&ring=00a152&fire=00a152&currStreakNum=24292f&sideNums=24292f&currStreakLabel=00a152&sideLabels=57606a&dates=57606a&stroke=d0d7de">
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrielBobby&background=161b22&border=30363d&ring=00e676&fire=00e676&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00e676&sideLabels=8b949e&dates=8b949e&stroke=30363d" alt="GitHub streak" />
+  </picture>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## `> contact --open`
 
-- 🎓 Computer Science student interested in Cybersecurity
-- 🌱 Currently exploring **local LLMs**, **cybersecurity**, and **React**
-- 🔭 Building: **AI Swimming Pool Detector** & **Calm Cockpit**
-- 🌐 Portfolio: [adrielbobby.github.io](https://adrielbobby.github.io)
-- 📍 Kalamassery, Kerala, India
+```text
+$ ping adriel
+  portfolio : https://adrielbobby.github.io
+  github    : https://github.com/AdrielBobby
+  status    : open to internships & security / AI projects
+```
 
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🏊 AI Pool Detector](https://github.com/AdrielBobby/ai-swimming-pool-detection) | Satellite image AI pipeline to detect pools with YOLOv8 + Streamlit dashboard | Python, OpenCV, YOLOv8 |
-| [🌐 Portfolio Site](https://github.com/AdrielBobby/adrielbobby.github.io) | Personal resume & portfolio website | React, JavaScript, Vite |
-| [🎛️ Calm Cockpit](https://github.com/AdrielBobby/calm-cockpit-multipage-version) | Student Mission Control dashboard — timetable, grades, finance & calendar in one glanceable view | Python, Flask, JS, SQLite |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrielBobby&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielBobby&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdrielBobby&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📫 Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-adrielbobby.github.io-blue?style=flat-square&logo=github)](https://adrielbobby.github.io)
+<div align="center"><sub>[ press any key to continue ]</sub></div>

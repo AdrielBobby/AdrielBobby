@@ -11,7 +11,7 @@ THEMES = {
     "light": {"bg": "#f6f8fa", "border": "#d0d7de", "text": "#57606a",
               "levels": ["#e6eaee", "#b7ebc6", "#6fd58f", "#26a65b", "#00a152"]},
 }
-CELL, GAP, LEFT, TOP = 11, 3, 34, 34
+CELL, GAP, LEFT, TOP = 11, 3, 34, 26
 
 html = urllib.request.urlopen(
     urllib.request.Request(f"https://github.com/users/{USER}/contributions",
@@ -30,9 +30,7 @@ height = TOP + 7 * (CELL + GAP) + 34
 for name, t in THEMES.items():
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
            f'viewBox="0 0 {width} {height}" font-family="ui-monospace,Consolas,monospace" font-size="11">',
-           f'<rect x=".5" y=".5" width="{width-1}" height="{height-1}" rx="6" fill="{t["bg"]}" stroke="{t["border"]}"/>',
-           f'<text x="16" y="22" fill="{t["levels"][4]}" font-size="12">$ git log --contributions --graph'
-           f'  ({total} in the last year)</text>']
+           f'<rect x=".5" y=".5" width="{width-1}" height="{height-1}" rx="6" fill="{t["bg"]}" stroke="{t["border"]}"/>']
     last_month = None
     for d, lvl in cells:
         wk, wd = ((d - start).days + offset) // 7, (d.weekday() + 1) % 7

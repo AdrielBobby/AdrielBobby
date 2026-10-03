@@ -10,7 +10,11 @@
 **Guild:** IEEE Technical Coordinator, RSET Kochi  
 **Region:** Kalamassery, Kerala, IN
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-adrielbobby.github.io-00e676?style=for-the-badge&labelColor=0d1117)](https://adrielbobby.github.io)
+[`$ open adrielbobby.github.io`](https://adrielbobby.github.io)
+
+```text
+LVL 05   XP █████████████░░░░░░░░░░░░░░░░░  125 / 290
+```
 
 </div>
 
@@ -92,24 +96,33 @@ SKILL TREE
 
 | Quest | Objective | Loot (Stack) | Status |
 |-------|-----------|--------------|:------:|
-| [**ai-swimming-pool-detection**](https://github.com/AdrielBobby/ai-swimming-pool-detection) | Detect swimming pools in satellite imagery with an interactive dashboard | YOLOv8 · Streamlit | ⚔️ Active |
-| [**calm-cockpit**](https://github.com/AdrielBobby/calm-cockpit-multipage-version) | Student mission control: timetable, grades, finance, calendar | JavaScript | ⚔️ Active |
-| [**vaccine-dispatch-project**](https://github.com/AdrielBobby/vaccine-dispatch-project) | CLI for vaccine inventory, hospital orders, dispatch and sales reports | Python · MySQL | ✅ Cleared |
-| [**pharma-batch-tracker**](https://github.com/AdrielBobby/pharma-batch-tracker) | Track medicine batches, expiry, suppliers and sales | Relational schema | ✅ Cleared |
-| [**student-marks-tracker**](https://github.com/AdrielBobby/student-marks-tracker) | Marks tracker built for an internship | TypeScript | ✅ Cleared |
-| [**gemini_context_monitor**](https://github.com/AdrielBobby/gemini_context_monitor) | Terminal tool to monitor Gemini CLI context-window usage | Python | ✅ Cleared |
-| [**Mend-your-heart-game**](https://github.com/AdrielBobby/Mend-your-heart-game) | A small Valentine's Day game about finding yourself | Lua | ✅ Cleared |
-| [**adrielbobby.github.io**](https://github.com/AdrielBobby/adrielbobby.github.io) | Terminal-themed portfolio with WebGL effects | React · Vite · Three.js | 🔄 Always evolving |
+| [**adrielbobby.github.io**](https://github.com/AdrielBobby/adrielbobby.github.io) | Terminal-themed portfolio with WebGL effects | React · Vite · Three.js | Ongoing |
+| [**thaalam**](https://github.com/AdrielBobby/thaalam) | Wearable chenda coach with real-time timing feedback and Malayalam AI instruction. Team project, I built the backend & UI (Best Use of Gemma, Physical AI Hackathon) | Python · FastAPI · Gemma · Raspberry Pi 5 | Complete |
+| [**calm-cockpit**](https://github.com/AdrielBobby/calm-cockpit-multipage-version) | Student mission control: timetable, grades, finance, calendar | JavaScript | In progress |
+| [**ai-swimming-pool-detection**](https://github.com/AdrielBobby/ai-swimming-pool-detection) | Detect swimming pools in satellite imagery with an interactive dashboard | YOLOv8 · Streamlit | Complete |
+| [**pharma-batch-tracker**](https://github.com/AdrielBobby/pharma-batch-tracker) | MedLedger: pharmacy batch & expiry manager with FEFO sales allocation, near-expiry alerts and trigger-enforced stock integrity | Oracle 23ai · Node.js · React · TypeScript · Docker | Complete |
+| [**Mend-your-heart-game**](https://github.com/AdrielBobby/Mend-your-heart-game) | A small Valentine's Day game about finding yourself | Lua | Complete |
 
 ---
 
 ## `> active-quests`
 
-- 🧠 Running **local LLMs** (and putting them on small hardware)
-- 🛡️ Building a **cybersecurity** foundation
-- ⚛️ Levelling up **React**
+```text
+ACTIVE QUESTS
+────────────────────────────────────────────
+[>] Local LLMs ......... Lv.4 -> Lv.6   build into real apps, edge AI on Pi 5
+[>] Cryptography ....... Lv.3 -> Lv.5   reward: CTF crypto challenges
+[>] Web & Network ...... Lv.6 -> Lv.7   reward: deeper pentesting
+[>] calm-cockpit ....... in progress    reward: ship it
 
-**Next unlock:** CTF competitions · network security · pentesting basics
+LOCKED  (unlock by levelling up)
+────────────────────────────────────────────
+[ ] Reverse Eng. ....... Lv.0
+[ ] Secure Coding ...... Lv.0
+[ ] Sec. Scripting ..... Lv.0
+[ ] Binary Exploits .... Lv.2
+[ ] Blue Team .......... Lv.2
+```
 
 ---
 
